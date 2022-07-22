@@ -6,3 +6,6 @@ We introduce Morse Breaker consists of two main parts
 The Master which receive and translate the code.
 The Slave which controlling the ship and if it receives a signal from The Master it will take an action.
 Note:: The Generator generates the Morse code and send it to The Master.
+
+done with my team at ITI embedded diploma for students
+my team was Shemoo Mohamed, Eman Elsayed, and Ahmed Eltalkhawy
